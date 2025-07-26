@@ -1,17 +1,44 @@
-# A Simple One-Page Portfolio Template
+# 💼 AI/ML Portfolio – My Edition
 
-### For integration anywhere
+Welcome to my personal portfolio website! This site showcases my journey, projects, achievements, and everything in between in the world of *AI/ML, **data science, and **creative problem-solving*.
 
-This is a simple one-page portfolio template for Developers and UI/UX pros
+🌐 *Live Website:* [https://riyaayay.github.io/](https://riyaayay.github.io/)
 
-It's built in plain HTML and CSS so you can integrate it into any framework or just host it for free on Github pages.
+---
 
-# See it in action:
+## 📌 What You'll Find
 
-[https://ayushsarangithub.github.io/one-page-portfolios/](https://ayushsarangithub.github.io/one-page-portfolios/)
+- 🎯 *About Me* – A snapshot of who I am and what I love building
+- 🧠 *Skills* – Python, Machine Learning, TensorFlow, PyTorch, EfficientNet, and more
+- 🧪 *Projects* – Brain Tumor Classification, Halo CME Prediction, ResNet50 experiments, and more
+- 📚 *Research* – Co-authoring a research chapter under IGI Global (2025)
+- 🏆 *Achievements* – Hacktoberfest badge, research contributions, and academic excellence
 
-[![https://simplenote-to-obsidian.fly.dev/](https://github.com/user-attachments/assets/6615efdb-2a2c-4f13-af43-6c0605a2fbd4)](https://ayushsarangithub.github.io/one-page-portfolios/)
+---
 
-Feel free to fork this repo and tweak it to your liking
+## 🚀 Tech Stack
 
-https://ayushsarangithub.github.io/one-page-portfolios/
+| Category           | Tools & Technologies |
+| ------------------ | -------------------- |
+| Languages          | Python, C++          |
+| AI/ML Libraries    | TensorFlow, Keras, PyTorch, Scikit-learn |
+| Data Handling      | NumPy, Pandas, Data Augmentation |
+| Developer Tools    | Jupyter, Google Colab, VS Code, GitHub |
+| Deployment         | GitHub Pages         |
+
+---
+
+## 📂 How to Run This Portfolio Locally
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/your-repo-name.git
+
+# Go into the project directory
+cd your-repo-name
+
+# Install dependencies (if using a framework like Next.js)
+npm install
+
+# Start the dev server
+npm run dev
