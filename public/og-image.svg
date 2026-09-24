@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#FBF7F1"/>
+  <circle cx="1020" cy="120" r="180" fill="#F4C9D6" opacity="0.6"/>
+  <circle cx="150" cy="520" r="220" fill="#B9D3E3" opacity="0.5"/>
+  <circle cx="950" cy="540" r="140" fill="#B9CCB2" opacity="0.5"/>
+  <text x="90" y="300" font-family="Manrope, sans-serif" font-size="64" font-weight="800" fill="#2E2A35">Riya Rathod</text>
+  <text x="90" y="360" font-family="Inter, sans-serif" font-size="30" fill="#4A3F6B">CS engineer building AI systems that</text>
+  <text x="90" y="400" font-family="Inter, sans-serif" font-size="30" fill="#4A3F6B">verify themselves before trusting their output</text>
+  <path d="M90 450 L110 470 L150 420" stroke="#7C6A9C" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
