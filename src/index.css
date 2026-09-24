@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 5rem;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+body {
+  @apply bg-cream text-ink dark:bg-nightbg dark:text-[#EDE9F5] font-body antialiased transition-colors duration-300;
+}
+
+::selection {
+  background-color: #C9C2E8;
+  color: #2E2A35;
+}
+
+:focus-visible {
+  outline: 2px solid #7C6A9C;
+  outline-offset: 3px;
+  border-radius: 4px;
+}
